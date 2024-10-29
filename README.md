@@ -26,6 +26,10 @@ flowchart TD
 ## Simulation
 
 ## Scénarimage
+<img src="./images/scenarimage_legende.png" width="100"/>
+
+<img src="./images/scenarimage_1.jpg" width="500"/> <img src="./images/scenarimage_2.jpg" width="500"/> <img src="./images/scenarimage_5.jpg" width="500"/> <img src="./images/scenarimage_3.jpg" width="500"/> <img src="./images/scenarimage_4.jpg" width="500"/>
+
 
 ## Devis Technique
 
