@@ -28,3 +28,17 @@ flowchart TD
 ## Scénarimage
 
 ## Devis Technique
+
+### Matériels
+
+#### Founi par l'artiste
+
+#### Founi par l'école
+
+### Logiciels
+
+#### Founi par l'artiste
+
+#### Founi par l'école
+
+### Mise en réseau et de communication
