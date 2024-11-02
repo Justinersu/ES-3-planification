@@ -35,15 +35,13 @@ flowchart TD
 
 ### Matériels
 
-#### Founi par l'artiste
-- Ordinateur
-
 #### Founi par l'école
-- 3 Microphones
+- 3 Microphones cardioïdes Shure SM57
 - 3 Détecteurs de présence
-- 4 Haut-parleurs
-- 3 Spotlights
+- 4 Haut-parleurs stéréo
+- 3 Spotlights ellipsoïdals
 - Carte de son
+- Ordinateur
 
 ### Logiciels
 
@@ -55,3 +53,4 @@ flowchart TD
 - Max
 
 ### Mise en réseau et de communication
+Les dispositifs communiqueront entre eux via DMX et Loop MIDI.
