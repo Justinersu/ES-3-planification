@@ -31,19 +31,27 @@ flowchart TD
 
 <img src="./images/scenarimage_1.jpg" width="500"/> <img src="./images/scenarimage_2.jpg" width="500"/> <img src="./images/scenarimage_3.jpg" width="500"/> <img src="./images/scenarimage_4.jpg" width="500"/> <img src="./images/scenarimage_5.jpg" width="500"/>
 
-
 ## Devis Technique
 
 ### Matériels
 
 #### Founi par l'artiste
+- Ordinateur
 
 #### Founi par l'école
+- 3 Microphones
+- 3 Détecteurs de présence
+- 4 Haut-parleurs
+- 3 Spotlights
+- Carte de son
 
 ### Logiciels
 
 #### Founi par l'artiste
+- Reaper
 
 #### Founi par l'école
+- QLC +
+- Max
 
 ### Mise en réseau et de communication
