@@ -24,6 +24,7 @@ flowchart TD
 ## Plantation
 
 ## Simulation
+<img src="./images/simulation_1.jpg" width="400"/> <img src="./images/simulation_2.jpg" width="400"/> <img src="./images/simulation_3.jpg" width="400"/> <img src="./images/simulation_4.jpg" width="400"/> <img src="./images/simulation_5.jpg" width="400"/>
 
 ## Scénarimage
 <img src="./images/scenarimage_legende.png" width="150"/>
