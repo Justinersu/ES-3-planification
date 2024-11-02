@@ -36,12 +36,12 @@ flowchart TD
 ### Matériels
 
 #### Founi par l'école
-- 3 Microphones cardioïdes Shure SM57
-- 3 Détecteurs de présence
-- 4 Haut-parleurs
-- 3 Spotlights ellipsoïdals
-- Carte de son
-- Ordinateur
+- 3 x Microphones cardioïdes Shure SM57
+- 3 x Détecteurs de présence
+- 4 x Haut-parleurs
+- 3 x Spotlights ellipsoïdals
+- 1 x Carte de son
+- 1 x Ordinateur
 
 ### Logiciels
 
