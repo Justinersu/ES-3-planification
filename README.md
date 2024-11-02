@@ -22,7 +22,7 @@ flowchart TD
 ```
 
 ## Plantation
-<img src="./images/plantation.jpg" width="400"/>
+<img src="./images/plantation.jpg" width="800"/>
 
 ## Simulation
 <img src="./images/simulation_1.jpg" width="400"/> <img src="./images/simulation_2.jpg" width="400"/> <img src="./images/simulation_3.jpg" width="400"/> <img src="./images/simulation_4.jpg" width="400"/> <img src="./images/simulation_5.jpg" width="400"/>
