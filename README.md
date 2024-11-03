@@ -36,7 +36,7 @@ flowchart TD
 
 ### Matériels
 
-#### Founi par l'école
+#### Fourni par l'école
 - 3 x Microphones cardioïdes Shure SM57
 - 3 x Détecteurs de présence
 - 4 x Haut-parleurs
@@ -46,10 +46,10 @@ flowchart TD
 
 ### Logiciels
 
-#### Founi par l'artiste
+#### Fourni par l'artiste
 - Reaper
 
-#### Founi par l'école
+#### Fourni par l'école
 - QLC +
 - Max
 
